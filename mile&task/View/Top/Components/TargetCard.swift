@@ -9,7 +9,7 @@ import SwiftUI
 
 struct TargetCard: View {
     var body: some View {
-        
+        Text("aaa")
     }
 }
 
